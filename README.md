@@ -32,6 +32,7 @@ A curated starting list of platforms where founders can discover, launch, and sh
 | SaaSHub | Discovering software and alternatives | https://www.saashub.com/ |
 | AlternativeTo | Finding and comparing software alternatives | https://alternativeto.net/ |
 | G2 | Software discovery, reviews, and comparisons | https://www.g2.com/ |
+| MEDIAPRONET | Listing and discovering new startups, SaaS tools and indie products | https://mediapronet.com/ |
 | SourceForge | Software discovery and project hosting | https://sourceforge.net/ |
 | Startup Stash | Discovering tools and resources for startups | https://startupstash.com/ |
 | StartupBlink | Startup ecosystem discovery and company visibility | https://www.startupblink.com/ |
