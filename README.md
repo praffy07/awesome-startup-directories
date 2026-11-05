@@ -29,6 +29,7 @@ A curated starting list of platforms where founders can discover, launch, and sh
 
 | Platform | What it's useful for | Website |
 |---|---|---|
+| MeetNewAI | Free bilingual directory of AI tools, AI games, and MCP servers | https://meetnewai.com/ |
 | SaaSHub | Discovering software and alternatives | https://www.saashub.com/ |
 | AlternativeTo | Finding and comparing software alternatives | https://alternativeto.net/ |
 | G2 | Software discovery, reviews, and comparisons | https://www.g2.com/ |
