@@ -24,6 +24,7 @@ A curated starting list of platforms where founders can discover, launch, and sh
 | BetaList | Discovering early-stage startups | https://betalist.com/ |
 | DevHunt | Discovering developer tools | https://devhunt.org/ |
 | Hunted Space | Exploring Product Hunt launch history and product discovery | https://www.hunted.space/ |
+| Awesome Indie | Launching indie products daily, ranked by community upvotes | https://awesomeindie.com/ |
 
 ## SaaS and software directories
 
