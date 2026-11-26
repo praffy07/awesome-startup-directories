@@ -50,6 +50,7 @@ A curated starting list of platforms where founders can discover, launch, and sh
 | DEV Community | Publishing developer-focused articles and tutorials | https://dev.to/ |
 | GitHub | Open-source projects, documentation, and developer collaboration | https://github.com/ |
 | Hugging Face | Sharing machine-learning models, datasets, and demos | https://huggingface.co/ |
+| AI Agency Search | Listing and finding AI agencies and AI service firms by city and service | https://aiagencysearch.com/ |
 
 ## Launch and directory resources
 
